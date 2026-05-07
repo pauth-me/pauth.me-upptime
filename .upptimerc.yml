@@ -20,3 +20,7 @@ status-website:
       href: /
     - title: pauth.me
       href: https://pauth.me
+
+workflowSchedule:
+  summary: "30 0 * * *"
+  updateTemplate: "0 2 * * *"
