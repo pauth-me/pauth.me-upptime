@@ -23,4 +23,4 @@ status-website:
 
 workflowSchedule:
   summary: "30 0 * * *"
-  updateTemplate: "0 2 * * *"
+  updateTemplate: "0 0 1 1 *"
