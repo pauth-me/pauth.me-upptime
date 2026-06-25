@@ -4,19 +4,19 @@
     "url": "https://pauth.me",
     "icon": "https://icons.duckduckgo.com/ip3/pauth.me.ico",
     "slug": "pauth-me",
-    "status": "up",
-    "uptime": "93.56%",
-    "uptimeDay": "55.67%",
-    "uptimeWeek": "51.99%",
-    "uptimeMonth": "74.13%",
-    "uptimeYear": "93.56%",
+    "status": "down",
+    "uptime": "93.69%",
+    "uptimeDay": "68.23%",
+    "uptimeWeek": "52.63%",
+    "uptimeMonth": "74.61%",
+    "uptimeYear": "93.69%",
     "time": 844,
-    "timeDay": 851,
-    "timeWeek": 841,
-    "timeMonth": 845,
+    "timeDay": 867,
+    "timeWeek": 846,
+    "timeMonth": 848,
     "timeYear": 844,
     "dailyMinutesDown": {
-      "2026-06-25": 387,
+      "2026-06-25": 397,
       "2026-06-24": 607,
       "2026-06-23": 703,
       "2026-06-22": 622,
@@ -32,7 +32,7 @@
       "2026-06-12": 979,
       "2026-06-11": 527,
       "2026-06-10": 643,
-      "2026-06-09": 366
+      "2026-06-09": 146
     }
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://pauth.me/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/pauth.me.ico",
     "slug": "pauth-me-api",
-    "status": "up",
-    "uptime": "93.83%",
-    "uptimeDay": "58.35%",
-    "uptimeWeek": "54.24%",
-    "uptimeMonth": "75.23%",
-    "uptimeYear": "93.83%",
+    "status": "down",
+    "uptime": "93.96%",
+    "uptimeDay": "70.91%",
+    "uptimeWeek": "54.87%",
+    "uptimeMonth": "75.71%",
+    "uptimeYear": "93.96%",
     "time": 1296,
-    "timeDay": 1260,
-    "timeWeek": 1280,
-    "timeMonth": 1312,
+    "timeDay": 1275,
+    "timeWeek": 1288,
+    "timeMonth": 1316,
     "timeYear": 1296,
     "dailyMinutesDown": {
-      "2026-06-25": 362,
+      "2026-06-25": 367,
       "2026-06-24": 578,
       "2026-06-23": 673,
       "2026-06-22": 597,
@@ -68,7 +68,7 @@
       "2026-06-12": 956,
       "2026-06-11": 500,
       "2026-06-10": 620,
-      "2026-06-09": 347
+      "2026-06-09": 131
     }
   },
   {
@@ -76,16 +76,16 @@
     "url": "https://demo.pauth.me",
     "icon": "https://icons.duckduckgo.com/ip3/demo.pauth.me.ico",
     "slug": "demo-pauth-me",
-    "status": "up",
-    "uptime": "93.98%",
-    "uptimeDay": "61.04%",
-    "uptimeWeek": "56.64%",
-    "uptimeMonth": "75.82%",
-    "uptimeYear": "93.98%",
+    "status": "down",
+    "uptime": "94.11%",
+    "uptimeDay": "73.60%",
+    "uptimeWeek": "57.27%",
+    "uptimeMonth": "76.28%",
+    "uptimeYear": "94.11%",
     "time": 689,
-    "timeDay": 649,
-    "timeWeek": 661,
-    "timeMonth": 697,
+    "timeDay": 664,
+    "timeWeek": 665,
+    "timeMonth": 700,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2026-06-25": 338,
@@ -104,7 +104,7 @@
       "2026-06-12": 932,
       "2026-06-11": 472,
       "2026-06-10": 326,
-      "2026-06-09": 838
+      "2026-06-09": 635
     }
   }
 ]
