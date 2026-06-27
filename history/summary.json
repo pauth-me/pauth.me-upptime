@@ -4,19 +4,19 @@
     "url": "https://pauth.me",
     "icon": "https://icons.duckduckgo.com/ip3/pauth.me.ico",
     "slug": "pauth-me",
-    "status": "up",
-    "uptime": "93.60%",
-    "uptimeDay": "33.41%",
-    "uptimeWeek": "51.12%",
-    "uptimeMonth": "73.99%",
-    "uptimeYear": "93.60%",
+    "status": "down",
+    "uptime": "93.71%",
+    "uptimeDay": "33.42%",
+    "uptimeWeek": "51.02%",
+    "uptimeMonth": "74.41%",
+    "uptimeYear": "93.71%",
     "time": 845,
     "timeDay": 781,
     "timeWeek": 836,
-    "timeMonth": 849,
+    "timeMonth": 848,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2026-06-27": 11,
+      "2026-06-27": 21,
       "2026-06-26": 947,
       "2026-06-25": 500,
       "2026-06-24": 607,
@@ -32,7 +32,7 @@
       "2026-06-14": 667,
       "2026-06-13": 957,
       "2026-06-12": 979,
-      "2026-06-11": 527
+      "2026-06-11": 330
     }
   },
   {
@@ -40,19 +40,19 @@
     "url": "https://pauth.me/api/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/pauth.me.ico",
     "slug": "pauth-me-api",
-    "status": "up",
-    "uptime": "93.87%",
-    "uptimeDay": "35.42%",
-    "uptimeWeek": "53.42%",
-    "uptimeMonth": "75.09%",
-    "uptimeYear": "93.87%",
+    "status": "down",
+    "uptime": "93.98%",
+    "uptimeDay": "35.43%",
+    "uptimeWeek": "53.37%",
+    "uptimeMonth": "75.52%",
+    "uptimeYear": "93.98%",
     "time": 1296,
     "timeDay": 1175,
     "timeWeek": 1275,
     "timeMonth": 1315,
     "timeYear": 1296,
     "dailyMinutesDown": {
-      "2026-06-27": 11,
+      "2026-06-27": 16,
       "2026-06-26": 919,
       "2026-06-25": 460,
       "2026-06-24": 578,
@@ -68,7 +68,7 @@
       "2026-06-14": 629,
       "2026-06-13": 917,
       "2026-06-12": 956,
-      "2026-06-11": 500
+      "2026-06-11": 307
     }
   },
   {
@@ -76,12 +76,12 @@
     "url": "https://demo.pauth.me",
     "icon": "https://icons.duckduckgo.com/ip3/demo.pauth.me.ico",
     "slug": "demo-pauth-me",
-    "status": "up",
-    "uptime": "94.13%",
-    "uptimeDay": "37.43%",
+    "status": "down",
+    "uptime": "94.15%",
+    "uptimeDay": "37.45%",
     "uptimeWeek": "55.86%",
-    "uptimeMonth": "76.14%",
-    "uptimeYear": "94.13%",
+    "uptimeMonth": "76.22%",
+    "uptimeYear": "94.15%",
     "time": 689,
     "timeDay": 649,
     "timeWeek": 656,
@@ -104,8 +104,7 @@
       "2026-06-14": 592,
       "2026-06-13": 877,
       "2026-06-12": 932,
-      "2026-06-11": 472,
-      "2026-06-10": 38
+      "2026-06-11": 472
     }
   }
 ]
