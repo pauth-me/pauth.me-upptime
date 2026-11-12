@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pauth.me.ico",
     "slug": "pauth-me",
     "status": "down",
-    "uptime": "96.78%",
-    "uptimeDay": "41.17%",
-    "uptimeWeek": "91.60%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "96.78%",
+    "uptime": "96.40%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "76.94%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "96.40%",
     "time": 679,
     "timeDay": 0,
-    "timeWeek": 105,
-    "timeMonth": 109,
+    "timeWeek": 107,
+    "timeMonth": 110,
     "timeYear": 679,
     "dailyMinutesDown": {
       "2026-06-12": 621,
@@ -34,7 +34,8 @@
       "2026-06-27": 348,
       "2026-06-28": 161,
       "2026-06-29": 77,
-      "2026-11-11": 847
+      "2026-11-12": 988,
+      "2026-11-11": 1336
     }
   },
   {
@@ -43,14 +44,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/pauth.me.ico",
     "slug": "pauth-me-api",
     "status": "down",
-    "uptime": "96.91%",
-    "uptimeDay": "41.18%",
-    "uptimeWeek": "91.60%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "96.91%",
+    "uptime": "96.53%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "76.94%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "96.53%",
     "time": 1042,
     "timeDay": 0,
-    "timeWeek": 136,
+    "timeWeek": 137,
     "timeMonth": 146,
     "timeYear": 1042,
     "dailyMinutesDown": {
@@ -72,7 +73,8 @@
       "2026-06-26": 747,
       "2026-06-27": 324,
       "2026-06-28": 152,
-      "2026-11-11": 847
+      "2026-11-12": 989,
+      "2026-11-11": 1336
     }
   },
   {
@@ -81,14 +83,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.pauth.me.ico",
     "slug": "demo-pauth-me",
     "status": "down",
-    "uptime": "97.02%",
-    "uptimeDay": "41.19%",
-    "uptimeWeek": "91.60%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "97.02%",
+    "uptime": "96.64%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "76.95%",
+    "uptimeMonth": "94.69%",
+    "uptimeYear": "96.64%",
     "time": 554,
     "timeDay": 0,
-    "timeWeek": 74,
+    "timeWeek": 76,
     "timeMonth": 85,
     "timeYear": 554,
     "dailyMinutesDown": {
@@ -110,7 +112,8 @@
       "2026-06-26": 723,
       "2026-06-27": 300,
       "2026-06-28": 147,
-      "2026-11-11": 847
+      "2026-11-12": 989,
+      "2026-11-11": 1335
     }
   }
 ]
